@@ -1,0 +1,13 @@
+#opacheader a#lup {
+  display: none;
+}
+
+#opacheader span#lup {
+  display: none;
+}
+
+/* Library select drop-down */
+#opac-main-search select#select_library {
+  display: inline-block !important;
+}
+/* Library select drop-down */
