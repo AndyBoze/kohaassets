@@ -1,0 +1,17 @@
+body {
+  font-family: "Lucida Bright",Constantia,serif;
+  font-size: 14px;
+  font-size-adjust: 0.530;
+}
+
+div#header_search input {
+  font-size: 1.2em;
+}
+
+td span.available, td span.unavailable {
+  visibility: hidden;
+}
+
+td span.available i, td span.unavailable i {
+  visibility: visible;
+}
